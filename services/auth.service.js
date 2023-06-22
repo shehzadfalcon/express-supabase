@@ -10,7 +10,7 @@ class AuthService {
   // generate token
   generateToken = (user) => {
     // generate token
- 
+
     const accessToken = JWT.sign(
       {
         id: user.id,

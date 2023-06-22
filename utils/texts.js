@@ -9,7 +9,12 @@ module.exports = {
     productNotFound: "Product not found!",
     productAlreadyExist: "Product already exist!",
 
+    tokenInvalid: "Unauthorized access: Token not found",
+    userNotFound: "Unauthorized access: User does not exist",
+    unAuthorized: "Unauthorized access",
+    emailInvalid: "Invalid Email",
 
+    tokenExpired: "Token expired!",
   },
 
   TEXTS: {
@@ -28,7 +33,9 @@ module.exports = {
     profileUpdated: "Profile Updated",
     productsFetched:"Products fetched successfully!",
     productsCreated:"Product created successfully!",
-    productsUpdated:"Product updated successfully!"
+    productsUpdated:"Product updated successfully!",
+    productsDeleted:"Product deleted successfully!"
+
 
 
   },
