@@ -1,4 +1,5 @@
 # Project Name
+SupabaseAuth Express
 
 ## Description
 A web application built using Express that leverages Supabase for user authentication. This project demonstrates how to integrate Supabase’s authentication features with an Express backend, offering secure user management and authentication for APIs.
